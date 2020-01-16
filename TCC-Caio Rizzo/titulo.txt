@@ -1,0 +1,15 @@
+Blockchain como servidor de um jogo online: uma analise com proof of stake
+
+Proof of stake - tema principal
+Blockchain
+Servidor de jogo online
+
+1. O que é?
+2. Pra que serve?
+3. Quem usa?
+4. De que forma ou em qual momento?
+
+Responder para cada tópico essas 4 perguntas e trazer as referencias completas
+A justificativa para trabalhar com estes temas
+Os objetivos que devem ser alcançados (começar o objetivo com um verbo)(fazer isso para aquilo)
+Metodologia
